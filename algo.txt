@@ -1,0 +1,6 @@
+Step-1 = Start
+Step-2 = write the two variable 
+Step-3 = read the two variable 
+Step-4 = call funtion divide to divide the two variable
+Step-5 = show the result
+Step-6 = stop
